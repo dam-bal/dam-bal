@@ -21,6 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (today)
 - [NestedQuery improvements](https://github.com/spatie/elasticsearch-query-builder/pull/47) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (1 week ago)
 - [Added NestedSort](https://github.com/dam-bal/elasticsearch-query-builder/pull/16) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (1 week ago)
 - [Added Nested Sort](https://github.com/spatie/elasticsearch-query-builder/pull/46) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (1 week ago)
@@ -30,4 +31,3 @@
 - [added docker-compose.yml with composer, test, psalm and format](https://github.com/spatie/elasticsearch-query-builder/pull/44) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (1 week ago)
 - [Update index-document.asciidoc](https://github.com/elastic/go-elasticsearch/pull/851) on [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) (1 week ago)
 - [Update index-document.asciidoc](https://github.com/elastic/go-elasticsearch/pull/850) on [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) (2 weeks ago)
-- [fix saving relation models](https://github.com/dam-bal/eloquentity/pull/23) on [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) (8 months ago)
