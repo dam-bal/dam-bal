@@ -31,5 +31,5 @@
 - [removed ISSUE_TEMPLATE](https://github.com/spatie/elasticsearch-query-builder/pull/45) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (2 months ago)
 - [added docker-compose.yml with composer, test, psalm and format](https://github.com/dam-bal/elasticsearch-query-builder/pull/1) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (2 months ago)
 - [added docker-compose.yml with composer, test, psalm and format](https://github.com/spatie/elasticsearch-query-builder/pull/44) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (2 months ago)
-- [Update index-document.asciidoc](https://github.com/elastic/go-elasticsearch/pull/851) on [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) (2 months ago)
+- [Update index-document.asciidoc](https://github.com/elastic/go-elasticsearch/pull/851) on [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) (3 months ago)
 - [Update index-document.asciidoc](https://github.com/elastic/go-elasticsearch/pull/850) on [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) (3 months ago)
