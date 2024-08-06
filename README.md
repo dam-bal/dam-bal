@@ -6,7 +6,7 @@
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (3 months ago)
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) - Vercel Blob Client for PHP (3 months ago)
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (3 months ago)
-- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (10 months ago)
+- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (11 months ago)
 
 #### 🌱 My latest projects
 
