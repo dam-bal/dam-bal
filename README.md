@@ -5,11 +5,13 @@
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (2 days ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (4 months ago)
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (4 months ago)
+- [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example (5 months ago)
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) - Vercel Blob Client for PHP (5 months ago)
 
 #### 🌱 My latest projects
 
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) - Vercel Blob Client for PHP
+- [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example
 - [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities
 - [dam-bal/php-geos-php8](https://github.com/dam-bal/php-geos-php8) - PHP 8 bindings for libgeos
