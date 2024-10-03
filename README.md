@@ -25,6 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (today)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 days ago)
 - [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (4 months ago)
 - [NestedQuery improvements](https://github.com/spatie/elasticsearch-query-builder/pull/47) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (4 months ago)
@@ -34,4 +35,3 @@
 - [removed ISSUE_TEMPLATE](https://github.com/spatie/elasticsearch-query-builder/pull/45) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (5 months ago)
 - [added docker-compose.yml with composer, test, psalm and format](https://github.com/dam-bal/elasticsearch-query-builder/pull/1) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (5 months ago)
 - [added docker-compose.yml with composer, test, psalm and format](https://github.com/spatie/elasticsearch-query-builder/pull/44) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (5 months ago)
-- [Update index-document.asciidoc](https://github.com/elastic/go-elasticsearch/pull/851) on [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) (5 months ago)
