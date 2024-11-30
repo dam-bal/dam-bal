@@ -33,5 +33,5 @@
 - [Added Nested Sort](https://github.com/spatie/elasticsearch-query-builder/pull/46) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (6 months ago)
 - [removed ISSUE_TEMPLATE](https://github.com/dam-bal/elasticsearch-query-builder/pull/2) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 months ago)
 - [removed ISSUE_TEMPLATE](https://github.com/spatie/elasticsearch-query-builder/pull/45) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (6 months ago)
-- [added docker-compose.yml with composer, test, psalm and format](https://github.com/dam-bal/elasticsearch-query-builder/pull/1) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 months ago)
-- [added docker-compose.yml with composer, test, psalm and format](https://github.com/spatie/elasticsearch-query-builder/pull/44) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (6 months ago)
+- [added docker-compose.yml with composer, test, psalm and format](https://github.com/dam-bal/elasticsearch-query-builder/pull/1) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (7 months ago)
+- [added docker-compose.yml with composer, test, psalm and format](https://github.com/spatie/elasticsearch-query-builder/pull/44) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (7 months ago)
