@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (1 month ago)
+- [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (2 months ago)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (2 months ago)
 - [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 months ago)
 - [NestedQuery improvements](https://github.com/spatie/elasticsearch-query-builder/pull/47) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (6 months ago)
