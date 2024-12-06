@@ -25,6 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (today)
 - [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (2 months ago)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (2 months ago)
 - [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 months ago)
@@ -34,4 +35,3 @@
 - [removed ISSUE_TEMPLATE](https://github.com/dam-bal/elasticsearch-query-builder/pull/2) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (7 months ago)
 - [removed ISSUE_TEMPLATE](https://github.com/spatie/elasticsearch-query-builder/pull/45) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (7 months ago)
 - [added docker-compose.yml with composer, test, psalm and format](https://github.com/dam-bal/elasticsearch-query-builder/pull/1) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (7 months ago)
-- [added docker-compose.yml with composer, test, psalm and format](https://github.com/spatie/elasticsearch-query-builder/pull/44) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (7 months ago)
