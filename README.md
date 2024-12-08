@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (1 day ago)
+- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (2 days ago)
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (2 months ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (6 months ago)
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (7 months ago)
@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [upgrade-to-latest-php](https://github.com/dam-bal/php-package-template/pull/7) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (1 day ago)
-- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (1 day ago)
+- [upgrade-to-latest-php](https://github.com/dam-bal/php-package-template/pull/7) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (2 days ago)
+- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (2 days ago)
 - [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (2 months ago)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (2 months ago)
 - [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 months ago)
