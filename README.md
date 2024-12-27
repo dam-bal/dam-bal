@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (2 weeks ago)
-- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (2 months ago)
+- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (3 weeks ago)
+- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (3 months ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (7 months ago)
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (7 months ago)
 - [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example (8 months ago)
@@ -21,13 +21,13 @@
 
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v8.17.0](https://github.com/elastic/go-elasticsearch/releases/tag/v8.17.0), 1 week ago) - The official Go client for Elasticsearch
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.2.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.2.0), 1 month ago) - Build and execute an Elasticsearch search query using a fluent PHP API
-- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 2 months ago) - Eloquent Entities
+- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 3 months ago) - Eloquent Entities
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) ([1.0.1](https://github.com/dam-bal/vercel-blob-php/releases/tag/1.0.1), 8 months ago) - Vercel Blob Client for PHP
 
 #### 🔨 My recent Pull Requests
 
-- [upgrade-to-latest-php](https://github.com/dam-bal/php-package-template/pull/7) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (2 weeks ago)
-- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (2 weeks ago)
+- [upgrade-to-latest-php](https://github.com/dam-bal/php-package-template/pull/7) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (3 weeks ago)
+- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (3 weeks ago)
 - [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (2 months ago)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (3 months ago)
 - [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (7 months ago)
