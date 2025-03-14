@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.6.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.6.0), 3 days ago) - Build and execute an Elasticsearch search query using a fluent PHP API
+- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.6.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.6.0), 4 days ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v8.17.1](https://github.com/elastic/go-elasticsearch/releases/tag/v8.17.1), 1 month ago) - The official Go client for Elasticsearch
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 5 months ago) - Eloquent Entities
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) ([1.0.1](https://github.com/dam-bal/vercel-blob-php/releases/tag/1.0.1), 10 months ago) - Vercel Blob Client for PHP
