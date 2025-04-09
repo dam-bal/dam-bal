@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.6.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.6.0), 4 weeks ago) - Build and execute an Elasticsearch search query using a fluent PHP API
+- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.6.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.6.0), 1 month ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v8.17.1](https://github.com/elastic/go-elasticsearch/releases/tag/v8.17.1), 1 month ago) - The official Go client for Elasticsearch
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 6 months ago) - Eloquent Entities
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) ([1.0.1](https://github.com/dam-bal/vercel-blob-php/releases/tag/1.0.1), 11 months ago) - Vercel Blob Client for PHP
@@ -32,7 +32,7 @@
 - [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (4 months ago)
 - [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (6 months ago)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (6 months ago)
-- [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (10 months ago)
+- [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (11 months ago)
 - [NestedQuery improvements](https://github.com/spatie/elasticsearch-query-builder/pull/47) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (11 months ago)
 - [Added NestedSort](https://github.com/dam-bal/elasticsearch-query-builder/pull/16) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (11 months ago)
 - [Added Nested Sort](https://github.com/spatie/elasticsearch-query-builder/pull/46) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (11 months ago)
