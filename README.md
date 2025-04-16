@@ -7,8 +7,8 @@
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (6 months ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (11 months ago)
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (11 months ago)
-- [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) - Vercel Blob Client for PHP (11 months ago)
-- [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example (11 months ago)
+- [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) - Vercel Blob Client for PHP (1 year ago)
+- [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.7.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.7.0), 1 day ago) - Build and execute an Elasticsearch search query using a fluent PHP API
+- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.7.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.7.0), 2 days ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v8.17.1](https://github.com/elastic/go-elasticsearch/releases/tag/v8.17.1), 2 months ago) - The official Go client for Elasticsearch
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 6 months ago) - Eloquent Entities
 - [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) ([1.0.1](https://github.com/dam-bal/vercel-blob-php/releases/tag/1.0.1), 1 year ago) - Vercel Blob Client for PHP
