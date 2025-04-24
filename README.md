@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v9.0.0](https://github.com/elastic/go-elasticsearch/releases/tag/v9.0.0), 6 days ago) - The official Go client for Elasticsearch
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v9.0.0](https://github.com/elastic/go-elasticsearch/releases/tag/v9.0.0), 1 week ago) - The official Go client for Elasticsearch
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.7.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.7.0), 1 week ago) - Build and execute an Elasticsearch search query using a fluent PHP API
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 6 months ago) - Eloquent Entities
 
