@@ -4,7 +4,7 @@
 
 - [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (4 months ago)
 - [dam-bal/apartment-rental-search](https://github.com/dam-bal/apartment-rental-search) -  (6 months ago)
-- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (6 months ago)
+- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (7 months ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (11 months ago)
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (11 months ago)
 - [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example (1 year ago)
@@ -23,7 +23,7 @@
 
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v9.0.0](https://github.com/elastic/go-elasticsearch/releases/tag/v9.0.0), 1 week ago) - The official Go client for Elasticsearch
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) ([3.7.0](https://github.com/spatie/elasticsearch-query-builder/releases/tag/3.7.0), 1 week ago) - Build and execute an Elasticsearch search query using a fluent PHP API
-- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 6 months ago) - Eloquent Entities
+- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 7 months ago) - Eloquent Entities
 
 #### 🔨 My recent Pull Requests
 
