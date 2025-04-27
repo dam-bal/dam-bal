@@ -7,8 +7,6 @@
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (7 months ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (11 months ago)
 - [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (11 months ago)
-- [dam-bal/eloquentity-shopping-cart-example](https://github.com/dam-bal/eloquentity-shopping-cart-example) - Eloquentity example (1 year ago)
-- [dam-bal/vercel-blob-php](https://github.com/dam-bal/vercel-blob-php) - Vercel Blob Client for PHP (1 year ago)
 
 #### 🌱 My latest projects
 
