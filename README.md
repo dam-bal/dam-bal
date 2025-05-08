@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v9.0.0](https://github.com/elastic/go-elasticsearch/releases/tag/v9.0.0), 2 weeks ago) - The official Go client for Elasticsearch
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) ([v9.0.0](https://github.com/elastic/go-elasticsearch/releases/tag/v9.0.0), 3 weeks ago) - The official Go client for Elasticsearch
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 7 months ago) - Eloquent Entities
 
 #### 🔨 My recent Pull Requests
