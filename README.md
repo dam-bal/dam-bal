@@ -6,7 +6,6 @@
 - [dam-bal/apartment-rental-search](https://github.com/dam-bal/apartment-rental-search) -  (7 months ago)
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (7 months ago)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (1 year ago)
-- [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) - Build and execute an Elasticsearch search query using a fluent PHP API (1 year ago)
 
 #### 🌱 My latest projects
 
