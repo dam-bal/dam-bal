@@ -5,7 +5,6 @@
 - [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (5 months ago)
 - [dam-bal/apartment-rental-search](https://github.com/dam-bal/apartment-rental-search) -  (7 months ago)
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (7 months ago)
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch (1 year ago)
 
 #### 🌱 My latest projects
 
