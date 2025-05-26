@@ -4,7 +4,7 @@
 
 - [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (5 months ago)
 - [dam-bal/apartment-rental-search](https://github.com/dam-bal/apartment-rental-search) -  (7 months ago)
-- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (7 months ago)
+- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 7 months ago) - Eloquent Entities
+- [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) ([0.5.3](https://github.com/dam-bal/eloquentity/releases/tag/0.5.3), 8 months ago) - Eloquent Entities
 
 #### 🔨 My recent Pull Requests
 
