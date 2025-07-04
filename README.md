@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (6 months ago)
+- [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (7 months ago)
 - [dam-bal/apartment-rental-search](https://github.com/dam-bal/apartment-rental-search) -  (9 months ago)
 - [dam-bal/eloquentity](https://github.com/dam-bal/eloquentity) - Eloquent Entities (9 months ago)
 
@@ -21,8 +21,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [upgrade-to-latest-php](https://github.com/dam-bal/php-package-template/pull/7) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (6 months ago)
-- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (6 months ago)
+- [upgrade-to-latest-php](https://github.com/dam-bal/php-package-template/pull/7) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (7 months ago)
+- [upgraded PHP version to latest (PHP 8.4), some changes to checks.sh](https://github.com/dam-bal/php-package-template/pull/6) on [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) (7 months ago)
 - [Nested query improvements](https://github.com/spatie/elasticsearch-query-builder/pull/53) on [spatie/elasticsearch-query-builder](https://github.com/spatie/elasticsearch-query-builder) (9 months ago)
 - [function scores](https://github.com/dam-bal/elasticsearch-query-builder/pull/18) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (9 months ago)
 - [Nested query improvements](https://github.com/dam-bal/elasticsearch-query-builder/pull/17) on [dam-bal/elasticsearch-query-builder](https://github.com/dam-bal/elasticsearch-query-builder) (1 year ago)
