@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [dam-bal/php-package-template](https://github.com/dam-bal/php-package-template) - My PHP package template (10 months ago)
-- [dam-bal/apartment-rental-search](https://github.com/dam-bal/apartment-rental-search) -  (1 year ago)
 
 #### 🌱 My latest projects
 
